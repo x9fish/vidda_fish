@@ -3,7 +3,7 @@
 Home Assistant custom integration: local MQTT control for Hisense VIDAA TVs.
 
 Target device: **Vidda 85V7N Ultra**
-
+![vidda_fish 控制面板](screenshot.png)
 ## Author
 
 - x9fish
