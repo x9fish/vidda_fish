@@ -1,7 +1,7 @@
 # vidda_fish
 
 Home Assistant 自定义集成，通过本地 MQTT 控制海信 VIDAA 电视。
-
+![vidda_fish 控制面板](screenshot.png)
 ## 功能
 
 - 15 个遥控按键：电源、音量±、静音、方向、OK、返回、首页、菜单、应用、直播、AI识图
