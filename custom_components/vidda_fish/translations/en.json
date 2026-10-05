@@ -1,0 +1,31 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "vidda_fish TV connection",
+        "description": "vidda_fish - local MQTT control for Hisense VIDAA TVs.\nTarget device: Vidda 85V7N Ultra\nAuthor: x9fish (x9fish@gmail.com)\nGitHub: https://github.com/x9fish/vidda_fish\n\nEnter TV MQTT details. TV client ID is a 32-char hex string, e.g. 58CB91A51E6D4C8EAF618A084761838A.",
+        "data": {
+          "host": "TV IP address",
+          "port": "MQTT port",
+          "tv_client_id": "TV client ID (32-char hex)",
+          "username": "MQTT username",
+          "password": "MQTT password",
+          "name": "Device name"
+        },
+        "data_description": {
+          "tv_client_id": "Example: 58CB91A51E6D4C8EAF618A084761838A",
+          "host": "Example: 192.168.43.44",
+          "port": "Default: 36669"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Cannot connect to TV. Check IP and port.",
+      "unknown": "Unknown error",
+      "tv_client_id_invalid": "TV client ID must be a 32-character hex string"
+    },
+    "abort": {
+      "already_configured": "This TV is already configured"
+    }
+  }
+}

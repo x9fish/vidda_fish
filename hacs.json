@@ -1,0 +1,7 @@
+{
+  "name": "vidda_fish",
+  "render_readme": true,
+  "domains": ["remote", "button"],
+  "country": ["CN"],
+  "homeassistant": "2024.1.0"
+}

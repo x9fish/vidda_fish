@@ -1,0 +1,14 @@
+{
+  "domain": "vidda_fish",
+  "name": "vidda_fish",
+  "version": "1.0.0",
+  "documentation": "https://github.com/x9fish/vidda_fish",
+  "issue_tracker": "https://github.com/x9fish/vidda_fish/issues",
+  "dependencies": [],
+  "codeowners": ["@x9fish"],
+  "requirements": ["paho-mqtt>=2.0.0"],
+  "iot_class": "local_push",
+  "config_flow": true,
+  "integration_type": "device",
+  "loggers": ["paho"]
+}
