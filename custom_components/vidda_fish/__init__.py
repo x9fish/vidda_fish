@@ -1,4 +1,4 @@
-"""vidda_fish - local MQTT control for Hisense VIDAA TVs.
+"""vidda_fish - local MQTT control for Hisense VIDDA TVs.
 
 Target device: Vidda 85V7N Ultra
 Author: x9fish <x9fish@gmail.com>

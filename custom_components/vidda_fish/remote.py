@@ -47,7 +47,7 @@ class ViddaFishRemote(RemoteEntity):
             "identifiers": {(DOMAIN, self._tv_client_id)},
             "name": data.get(CONF_NAME, DEFAULT_NAME),
             "manufacturer": "Hisense",
-            "model": "VIDAA",
+            "model": "VIDDA",
         }
 
     async def async_send_command(

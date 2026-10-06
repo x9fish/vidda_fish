@@ -3,7 +3,7 @@
     "step": {
       "user": {
         "title": "vidda_fish TV connection",
-        "description": "vidda_fish - local MQTT control for Hisense VIDAA TVs.\nTarget device: Vidda 85V7N Ultra\nAuthor: x9fish (x9fish@gmail.com)\nGitHub: https://github.com/x9fish/vidda_fish\n\nEnter TV MQTT details. TV client ID is a 32-char hex string, e.g. 58CB91A51E6D4C8EAF618A084761838A.",
+        "description": "vidda_fish - local MQTT control for Hisense VIDDA TVs.\nTarget device: Vidda 85V7N Ultra\nAuthor: x9fish (x9fish@gmail.com)\nGitHub: https://github.com/x9fish/vidda_fish\n\nEnter TV MQTT details. TV client ID is a 32-char hex string, e.g. 58CB91A51E6D4C8EAF618A084761838A.",
         "data": {
           "host": "TV IP address",
           "port": "MQTT port",

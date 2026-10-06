@@ -1,6 +1,6 @@
 # vidda_fish
 
-Home Assistant 自定义集成，通过本地 MQTT 控制海信 VIDAA 电视。
+Home Assistant 自定义集成，通过本地 MQTT 控制海信 VIDDA 电视。
 ![vidda_fish 控制面板](screenshot.png)
 ## 功能
 
@@ -12,7 +12,7 @@ Home Assistant 自定义集成，通过本地 MQTT 控制海信 VIDAA 电视。
 ## 支持设备
 
 - Vidda 85V7N Ultra（已测）
-- 无需客户端证书的 Hisense VIDAA 电视
+- 无需客户端证书的 Hisense VIDDA 电视
 
 ## 安装
 
@@ -25,7 +25,7 @@ Home Assistant 自定义集成，通过本地 MQTT 控制海信 VIDAA 电视。
 
 - 信号源 / 设置键走海信云端，本地 MQTT 不支持
 - `remote.is_on` 恒为 True，不反映真实开关状态
-- 仅适用于无需证书的 VIDAA 固件
+- 仅适用于无需证书的 VIDDA 固件
 
 ## 作者
 

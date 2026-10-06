@@ -63,7 +63,7 @@ COMMAND_ALIASES = {
 
 
 # -- meta --
-__version__ = "1.0.0"
+__version__ = "1.0.1"
 AUTHOR = "x9fish"
 AUTHOR_EMAIL = "x9fish@gmail.com"
 GITHUB = "https://github.com/x9fish/vidda_fish"

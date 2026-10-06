@@ -1,6 +1,6 @@
 # vidda_fish
 
-Home Assistant custom integration: local MQTT control for Hisense VIDAA TVs.
+Home Assistant custom integration: local MQTT control for Hisense VIDDA TVs.
 
 Target device: **Vidda 85V7N Ultra**
 
@@ -75,7 +75,7 @@ data:
 ## Limitations
 
 - Input source / Settings keys not supported: they go through the Hisense cloud MQTT (public port 1883), not the local 36669).
-- Only for VIDAA firmwares without client certificate requirement.
+- Only for VIDDA firmwares without client certificate requirement.
 - State not reflected: `remote.is_on` is always True.
 
 ## Protocol
